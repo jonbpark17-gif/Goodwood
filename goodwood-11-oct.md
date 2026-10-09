@@ -1,6 +1,8 @@
 # Goodwood: Sunday 11 October 2026 (Season Finale)
 
-*Research done Thursday 8 October 2026, three days before the meeting.*
+*First pass: Thursday 8 October 2026. Re-run: Friday 9 October 2026, the day 48-hour declarations are due.*
+
+> **Changes in the 9 October re-run:** a provisional going (Good to Soft, Good in places) now appears on two sources, and there are more entry names in the 14:57 and 16:07. There are still **no declared fields, draws or prices** that I can see. The racing sites are still blocked here, and the cached cards still show entry-sized fields (the 17:17 still lists 28 with "Non-runners 0/28", which Goodwood can't run at 1m2f). **Verdict unchanged: no selections.**
 
 ## Bottom line
 
@@ -38,9 +40,9 @@ Picking winners now would mean guessing at fields, draws, jockeys and odds that 
 |---|---|---|---|---|---|---|
 | 13:47 | Unnamed in snippets | 2m | Handicap (class not confirmed) | ~£9,160 | 16 | Carthusian (J Candlish), Zarakerjack (G & J Moore / Freddie Mitchell), plus two more names I couldn't verify |
 | 14:22 | Unnamed | 6f | Not confirmed | ~£10,800 | 16 | Through The Gate (H Eustace), Cornichon (R Varian / Ray Dawson), Deshaies (O Cole) |
-| 14:57 | Irish Stallion Farms EBF Nursery Handicap | 1m1f11y | 2yo nursery | ~£10,468 | 18 | Algaihabane (J & T Gosden / W Buick), The Balearic Sun (R Beckett / H Crouch), Lily Pink (C Johnston / C Shepherd), Rhythm Of My Heart (D Menuisier / R Ryan) |
+| 14:57 | Irish Stallion Farms EBF Nursery Handicap (GBBPlus) | 1m1f11y | 2yo nursery | ~£10,468 | 18 | Algaihabane (J & T Gosden / W Buick), The Balearic Sun (R Beckett / H Crouch), Lily Pink (C Johnston / C Shepherd), Rhythm Of My Heart (D Menuisier / R Ryan), Aphra Behn, Lots Road |
 | 15:32 | Unnamed | 6f | Not confirmed | ~£10,468 | 29 (too many to run; will be cut) | None I could verify |
-| 16:07 | Virgin Bet EBF Novice Stakes | 1m1f11y | 2yo novice | ~£10,468 | 17 | Donegan (A Balding / O Murphy), Al Qayed (W Haggas), Avowed (W Haggas) |
+| 16:07 | Virgin Bet EBF Novice Stakes | 1m1f11y | 2yo novice, Class 3 | ~£10,468 | 17 | Donegan (A Balding / O Murphy), Al Qayed (W Haggas), Avowed (W Haggas; one source doesn't show it), Iron Curtain and Emaraat (C Johnston), Naval Empire (S C Williams), Wilcox Bridge (K R Burke) |
 | 16:42 | Unnamed | Not found | Not found | Not found | Not found | None |
 | 17:17 | Virgin Bet Supports Safe Gambling Fillies' Handicap | 1m1f197y | 3yo+ fillies' handicap | ~£9,160 | 28 (another snippet says 19) | Beckett, Johnston and Gosden yards represented |
 
@@ -50,11 +52,12 @@ Picking winners now would mean guessing at fields, draws, jockeys and odds that 
 
 ## 3. Going and weather (provisional)
 
+- **Provisional going (9 Oct):** **Good to Soft, Good in places**, shown on both the Betfred card and the Sporting Life meeting page. Two sources agree, but neither is the official Goodwood going report yet. The clerk of the course is Ed Arkell.
 - **Recent ground:** The last Goodwood meeting I could confirm (8 September) was run on **Soft, Heavy in places**. That doesn't tell us what the ground will be on 11 October, but it shows the track hasn't been firm this autumn.
 - **Forecast (AccuWeather snippet; I couldn't confirm when it was taken):**
   - Saturday 10 October: windy, showers, about 84% chance of rain.
   - Sunday 11 October: mostly sunny and breezy, about 3% chance of rain.
-- **My read:** expect ground on the easy side of good, probably Good to Soft, with a chance of Soft if Saturday's rain is heavy. Wait for the official going on Friday and the inspection on Sunday morning before relying on any horse's ground preference.
+- **My read:** the provisional Good to Soft fits my first estimate. Saturday's forecast showers could make it Soft in places, and Sunday should dry it a little before racing. Wait for the official going on Friday and the inspection on Sunday morning before relying on any horse's ground preference.
 
 ---
 
@@ -72,7 +75,11 @@ This is the per-race checklist you asked for. Each item needs the final field, s
 
 ---
 
-## 5. Required outputs: current status
+## 5. Last year's equivalent card (12 Oct 2025)
+
+The 2025 nursery at this meeting was run over **7f on good ground**, so this year's 1m1f distance is not a like-for-like comparison. It was won by a T Ward horse (K Shoemark) at 7/1. An A M Balding horse ridden by Oisin Murphy was second as the 3/1 favourite. Balding/Murphy team up again this year with Donegan in the 16:07. That's a small point in Donegan's favour, not a reason to back it.
+
+## 6. Required outputs: current status
 
 | Output | Status |
 |---|---|
@@ -83,7 +90,7 @@ This is the per-race checklist you asked for. Each item needs the final field, s
 
 ---
 
-## 6. Sources (all reached only through search snippets)
+## 7. Sources (all reached only through search snippets)
 
 - Goodwood: [2026 fixtures on sale](https://media.goodwood.com/all-fixtures-for-2026-horseracing-season-at-goodwood-racecourse-are-now-on-sale/), [2026 dates PDF](https://media.goodwood.com/globalassets/press--media/2026/dates/save-the-date-goodwoods-2026-event-season-is-here.pdf), [Season Finale tickets](https://www.goodwood.com/horseracing/fixtures-and-events/season-finale/tickets-and-packages/)
 - [Sporting Life meeting page](https://www.sportinglife.com/racing/meeting/2026-10-11/goodwood/121895)
@@ -92,4 +99,7 @@ This is the per-race checklist you asked for. Each item needs the final field, s
 - [Horseracing.net card](https://www.horseracing.net/goodwood/11-10-26)
 - [At The Races Goodwood](https://www.attheraces.com/allracesat/Goodwood) (out of date or mixed with other meetings)
 - [Sporting Life result, 8 Sept 2026 (going)](https://www.sportinglife.com/racing/results/2026-09-08/goodwood/937228/virgin-bet-a-good-bet-handicap)
+- [Betfred Insights, 11 Oct cards (going)](https://insights.betfred.com/horse-racing/results/2026-10-11/)
+- [Goodwood: Clerk of the Course Ed Arkell](https://media.goodwood.com/clerk-of-the-course-ed-arkell/)
+- [Sporting Life 2025 nursery result](https://www.sportinglife.com/racing/results/2025-10-12/goodwood/883813/irish-stallion-farms-ebf-nursery)
 - [AccuWeather Chichester](https://www.accuweather.com/en/gb/chichester/po19-7/daily-weather-forecast/326255)
