@@ -1,105 +1,94 @@
 # Goodwood: Sunday 11 October 2026 (Season Finale)
 
-*First pass: Thursday 8 October 2026. Re-run: Friday 9 October 2026, the day 48-hour declarations are due.*
+*Third pass, race-day morning (11 Oct). Earlier passes on 8 and 9 Oct were before declarations, so they had no picks.*
 
-> **Changes in the 9 October re-run:** a provisional going (Good to Soft, Good in places) now appears on two sources, and there are more entry names in the 14:57 and 16:07. There are still **no declared fields, draws or prices** that I can see. The racing sites are still blocked here, and the cached cards still show entry-sized fields (the 17:17 still lists 28 with "Non-runners 0/28", which Goodwood can't run at 1m2f). **Verdict unchanged: no selections.**
+## Read this first: how far to trust this
 
-## Bottom line
-
-**I am not making any selections yet. There are no bets, no each-way pick and no ranked best three.**
-
-Two things stop me:
-
-1. **Final declarations are not out.** For a Sunday flat meeting, the 48-hour declarations come out on Friday morning (9 October). Until then each race is a long list of possible runners, not a field. Several lists show more horses than Goodwood can safely run at that trip (29 in a 6f race, 28 in a 1m2f fillies' handicap). There are no draws yet, jockeys are mostly unbooked, and there is no proper betting market.
-2. **I could not get to the primary sources from this environment.** Racing Post, Sporting Life, At The Races, Racing TV, Timeform, the BHA, Goodwood.com, Oddschecker and the Met Office are all blocked by the network policy. Everything below comes from search-engine snippets of those pages, which were often scrambled. I have only cross-checked what I could.
-
-Picking winners now would mean guessing at fields, draws, jockeys and odds that don't exist yet. You said you'd rather have fewer strong opinions than a pick in every race, so the honest answer today is no picks.
+- **The meeting is on.** It's a flat card of 7 races, 13:47 to 17:17, on going given as **Good to Soft, Soft in places**. The Racing Post card and At The Races both show that going, and it's softer than Friday's provisional "Good to Soft, Good in places".
+- **I couldn't open any racing site directly.** Racing Post, Sporting Life, ATR, Racing TV, Timeform, Oddschecker and Goodwood.com are all blocked by this environment's network policy. Everything below comes from search-engine extracts of those pages, mainly the Racing Post 11 Oct card and forecast, the Sussex Express same-day preview, Betfred Insights and Paddy Power.
+- **What's missing:** I have **no draw numbers, no full weights list and no live exchange prices.** The odds here are the **Racing Post betting forecast or tipsters' quoted prices**, not live market prices, and I couldn't see any market moves. **I couldn't confirm non-runners for any race.** Check each one before you bet.
+- **My confidence is capped at medium for that reason.** I've only given opinions where the form, ground and connections point the same way. I haven't made picks just to fill races.
 
 ---
 
-## 1. Is the meeting on? Yes
+## 1. Race by race
 
-| Check | Finding | Sources |
-|---|---|---|
-| Fixture exists | Season Finale, Sunday 11 Oct, Goodwood's last fixture of 2026 (19 fixtures, May–Oct) | Goodwood media releases; Goodwood ticket page |
-| Code | **Flat**, 7 races | Racing TV, Sporting Life, Racing Post snippets |
-| Window | 13:47 to 17:17 | Racing TV, Sporting Life, Racing Post agree |
-| Inspection / abandonment risk | Nothing reported | None found |
+### 13:47: Alderbrook Handicap (professional jump jockeys), 2m, Class 4, 3yo+, ~£9,160. Declared field around 12
+**Forecast:** 11/4 Carthusian, 5/1 Kotari, 13/2 Klycot, 12/1 Solar Pass, 16/1 Aggagio.
+- **Top pick: CARTHUSIAN (J Candlish, OR 81).** He's going for a hat-trick after winning his last two, and the Sussex Express says he prefers softer ground, which has now arrived (soft in places). He's in form and the ground suits, and the race is low class (Class 4, ridden by jump jockeys), so being a few pounds higher than his last win shouldn't stop him. The Racing Post verdict (Richard Austen) agrees, but I'd have him top without it: form and ground both point to him.
+- **Danger: Kotari (5/1).** He's second in the market, but I couldn't find any form for him, so this rests on the market alone.
+- **Disagreement between tipsters:** Betfred tips Solar Pass (Balding / Nico de Boinville, 12/1). Paul Jacobs (Paddy Power) and the Sussex Express tip Aggagio (8yo, RPR 64, 16/1). Jacobs specifically passed on Solar Pass. See §3 for Solar Pass.
 
-**One conflict, settled.** Racing Post's day page seemed to show a "Beggar's End Handicap (Premier Handicap)" at 16:15 next to the Goodwood card. Cross-checking showed that race is at **Naas** on the same day, not Goodwood, so ignore it. At The Races and Betfred showed other times (15:22–17:07, and a "2m 15:50"). Those turned out to be old pages or other meetings (some ATR times were for Vincennes).
+### 14:22: 2yo novice, 6f, ~£10,800
+**Forecast:** 13/8 Brynmair Gold, 2/1 War Chest, 5/2 Cornichon, 12/1 Binfluencer, 25/1 bar.
+- **Lean: Brynmair Gold (O Cole).** He was beaten a neck on debut at Kempton last month and the Sussex Express gives him the vote. War Chest has also shown ability, and Cornichon (Varian / Dawson) is a live third.
+- **Not a bet.** Three horses at 5/2 or shorter, the main form is on Kempton's all-weather surface rather than soft turf, and 13/8 leaves no value margin. **Leave alone.**
 
-**Minor conflict, not settled.** One Racing Post snippet gave the fillies' handicap as **17:25, 1m2½f, 19 runners**. Racing TV gives it as **17:17, 1m1f197y, 28 runners**. Most likely, 19 is a later and smaller list and 28 was the earlier entry. Check this on Friday.
+### 14:57: Irish Stallion Farms EBF Nursery Handicap, 1m1f11y, 2yo, ~£10,468
+- **Tipsters split:** the Racing Post verdict picks **Lots Road** (solid novice form) with Under Arrest as an improver. Betfred picks **Cloud Chorus** (G & J Moore, 5/1): beaten a short head on her third start, handicap debut, and she handles this ground. The Moores also have a strong Goodwood record.
+- **My view:** Cloud Chorus has the clearer recent improvement and a ground she's known to handle. But this is a nursery with lightly raced 2yos, I don't have the draw, and I can't check how strong her short-head run was. **Narrow lean to Cloud Chorus. Leave alone or small stakes only.**
 
----
+### 15:32: Virgin Bet Daily Extra Places Handicap, 6f
+**Named runners:** Deep Havana (5/1 forecast, 9/2 Betfred), The Strikin Viking, Brosay (10/1), Bone Marra, Midnight Thunder, Percy's Star, Collecting Coin, From The Hip, Sudden Flight, Caburn, Dream Composer, Crestofdistinction, Jungle Drums.
+- Deep Havana (Wathnan / H Al-Jehani) won at Thirsk on 28 Aug, his first run for new connections, then disappointed as a short-priced favourite in the Ayr Silver Cup. The Racing Post verdict expects him and stablemate The Strikin Viking to fight it out. Jacobs tips Brosay.
+- **Leave alone.** It's a big-field 6f handicap at Goodwood and I can't see the draw. On soft autumn ground at this trip, which side of the track runs best usually decides the race. Deep Havana's last run was a flop, so a short price on him is a guess about why he flopped.
 
-## 2. Provisional card (entry stage, NOT final declarations)
+### 16:07: Virgin Bet EBF Novice Stakes, 1m1f11y, 2yo, Class 3, ~£10,468. Around 16–17 runners
+- Donegan (A Balding / O Murphy) steps up a furlong after his Kempton debut. Iron Curtain (C Johnston) is the Sussex Express pick. Al Qayed (Haggas) and Wilcox Bridge (Burke) also run.
+- **Leave alone.** I found no forecast, and the Sussex Express calls it "hyper competitive". Several runners are unexposed, so this is the sort of race where unraced or once-raced 2yos make form study pointless.
 
-⚠️ **Every race below is provisional.** No race has final declarations, draws or confirmed jockeys yet. The "Runners" column means horses still entered, not the declared field.
+### 16:42: Inkerman London Handicap, 1m, Class 2, 0-105, 3yo+. 13 runners, stalls inside
+**Forecast:** 4/1 Wechaad, 5/1 Naval Light, 5/1 Sword Maker, 6/1 Brian, 6/1 Eternal Force, 7/1 Crazee Icon, 8/1 Cerulean Bay.
+- **Top pick: WECHAAD (R Varian / Ray Dawson, 3yo colt).** The Racing Post says he has "caught the eye in all his races" without things going right. His last run I could trace was **4th at Goodwood over 7f in May after being given plenty to do**, so he handles the track's undulations. The step up to a mile looks right on that evidence. He's a lightly raced 3yo who should still improve, and his figures run ahead of his mark (OR quoted at 95 or 99, sources differ; RPR 108). The Racing Post makes him its nap, but my case rests on the Goodwood run and the trip, not on that.
+- **Danger: Eternal Force (W Haggas / T Marquand, 6/1, OR 96).** He was unbeaten in three last year, then 7th in the Lincoln in March. I couldn't confirm a run since June, so his fitness is unknown, and 96 is his post-win mark, 8lb above where he last won. He has the class but more questions than Wechaad.
 
-| Time | Race | Distance | Type / class | Prize to winner | Entries (snippet) | Horses named in snippets |
-|---|---|---|---|---|---|---|
-| 13:47 | Unnamed in snippets | 2m | Handicap (class not confirmed) | ~£9,160 | 16 | Carthusian (J Candlish), Zarakerjack (G & J Moore / Freddie Mitchell), plus two more names I couldn't verify |
-| 14:22 | Unnamed | 6f | Not confirmed | ~£10,800 | 16 | Through The Gate (H Eustace), Cornichon (R Varian / Ray Dawson), Deshaies (O Cole) |
-| 14:57 | Irish Stallion Farms EBF Nursery Handicap (GBBPlus) | 1m1f11y | 2yo nursery | ~£10,468 | 18 | Algaihabane (J & T Gosden / W Buick), The Balearic Sun (R Beckett / H Crouch), Lily Pink (C Johnston / C Shepherd), Rhythm Of My Heart (D Menuisier / R Ryan), Aphra Behn, Lots Road |
-| 15:32 | Unnamed | 6f | Not confirmed | ~£10,468 | 29 (too many to run; will be cut) | None I could verify |
-| 16:07 | Virgin Bet EBF Novice Stakes | 1m1f11y | 2yo novice, Class 3 | ~£10,468 | 17 | Donegan (A Balding / O Murphy), Al Qayed (W Haggas), Avowed (W Haggas; one source doesn't show it), Iron Curtain and Emaraat (C Johnston), Naval Empire (S C Williams), Wilcox Bridge (K R Burke) |
-| 16:42 | Unnamed | Not found | Not found | Not found | Not found | None |
-| 17:17 | Virgin Bet Supports Safe Gambling Fillies' Handicap | 1m1f197y | 3yo+ fillies' handicap | ~£9,160 | 28 (another snippet says 19) | Beckett, Johnston and Gosden yards represented |
-
-**Missing for every race:** weights, official ratings, draw, confirmed jockeys, and odds. I couldn't get any of them reliably at this stage. Two of the 13:47 names ("Klycot", "Arc Zoosve") looked garbled in the snippets, so I've left them out rather than guess.
-
----
-
-## 3. Going and weather (provisional)
-
-- **Provisional going (9 Oct):** **Good to Soft, Good in places**, shown on both the Betfred card and the Sporting Life meeting page. Two sources agree, but neither is the official Goodwood going report yet. The clerk of the course is Ed Arkell.
-- **Recent ground:** The last Goodwood meeting I could confirm (8 September) was run on **Soft, Heavy in places**. That doesn't tell us what the ground will be on 11 October, but it shows the track hasn't been firm this autumn.
-- **Forecast (AccuWeather snippet; I couldn't confirm when it was taken):**
-  - Saturday 10 October: windy, showers, about 84% chance of rain.
-  - Sunday 11 October: mostly sunny and breezy, about 3% chance of rain.
-- **My read:** the provisional Good to Soft fits my first estimate. Saturday's forecast showers could make it Soft in places, and Sunday should dry it a little before racing. Wait for the official going on Friday and the inspection on Sunday morning before relying on any horse's ground preference.
+### 17:17: Virgin Bet Supports Safe Gambling Fillies' Handicap, 1m1f197y, 3yo+, ~£9,160
+- The Sussex Express tips **Wisper** ("good last time, able off this mark"), with Prosperity and Shangri La as contenders. I found no forecast and couldn't confirm the declared field size; a stale page still shows 28 entries.
+- **Leave alone.** There are no prices, I can't confirm the field, and it's the last race on the card.
 
 ---
 
-## 4. What I'll check once decs are out
+## 2. Best bets, ranked
 
-This is the per-race checklist you asked for. Each item needs the final field, so none of it could be done today.
+| # | Horse | Race | Price (forecast / tipster, not live) | Confidence | Why |
+|---|---|---|---|---|---|
+| 1 | **Carthusian** | 13:47 | 11/4 | **Medium** | Won his last two, ground now suits, low-class staying handicap. Jump-jockey races can be messy, so not high. |
+| 2 | **Wechaad** | 16:42 | 4/1 | **Medium–low** | Ran well at Goodwood in May, the step up to a mile suits, and he's a 3yo who should improve with figures above his mark. It's a competitive Class 2, so he's not a banker. |
 
-- **Form quality:** last 3–4 runs; what the horses behind them have done since; class of each race.
-- **Course and distance:** wins or places at Goodwood specifically. The track is undulating and turning, and some horses never handle it, so this matters more here than usual.
-- **Ground:** each horse's record on Good to Soft or Soft against the official going.
-- **Draw:** the stalls are drawn after declarations. The bias also depends on the ground and the rail position, so check the course's recent results at each trip on similar ground. Don't rely on a fixed rule.
-- **Trainer and jockey:** strike rate over the last 14 days, plus their Goodwood record. Balding, Beckett, Haggas and the Gosdens all appear in the entries and all use the course a lot.
-- **Handicap mark:** current mark against last winning mark; whether the horse is dropping or rising in class; any jockey allowance.
-- **Market:** the early price against the morning price, and any steady support from Saturday evening into Sunday.
+**There is no honest third bet.** Brynmair Gold (13/8) is too short with all-weather form going onto soft turf. Cloud Chorus (5/1) is a lean, not a bet. I'd rather give you two bets than make up a third.
+
+## 3. Each-way value pick
+
+**Solar Pass, 13:47, 12/1 (Balding / Nico de Boinville). Low confidence.** The Balding yard and a top jump jockey give it the best connections in a 12-runner field that should pay three places. If Carthusian runs to his form, each-way still makes sense. **Caveat:** I couldn't find Solar Pass's form figures, rating or stamina record, so this is based on connections and price only. Keep the stake small. If the field shrinks below 8 with non-runners, the place terms drop and the case gets weaker.
+
+## 4. Races to leave alone
+
+- **14:22:** three horses at 5/2 or shorter, and the main form is on the all-weather; no value.
+- **14:57:** the tipsters disagree, the runners are lightly raced, I don't have the draw (lean Cloud Chorus at most).
+- **15:32:** big-field 6f handicap where the draw decides it, and I can't see the draw.
+- **16:07:** unexposed 2yo novices, no market found.
+- **17:17:** no prices, field size not confirmed.
+
+## 5. Before you bet
+
+1. Check non-runners, especially in the 13:47 (it affects the Solar Pass place terms) and the 16:42.
+2. Check the morning going update, in case it has gone softer and turned to Soft. That would help Carthusian further and makes Wechaad's ground record the open question.
+3. Compare forecast prices against the live market. If Carthusian is shorter than 2/1, the value is gone. If Wechaad drifts above 5/1 without a reason you can see, take note of that too.
 
 ---
 
-## 5. Last year's equivalent card (12 Oct 2025)
+## Sources (all reached only through search extracts)
 
-The 2025 nursery at this meeting was run over **7f on good ground**, so this year's 1m1f distance is not a like-for-like comparison. It was won by a T Ward horse (K Shoemark) at 7/1. An A M Balding horse ridden by Oisin Murphy was second as the 3/1 favourite. Balding/Murphy team up again this year with Donegan in the 16:07. That's a small point in Donegan's favour, not a reason to back it.
-
-## 6. Required outputs: current status
-
-| Output | Status |
-|---|---|
-| Race-by-race top pick and danger | **Not given.** No race has a final field. |
-| Best 3 bets, with confidence and odds | **None.** There are no reliable odds and no fields yet, so any confidence level would be invented. |
-| Each-way value pick | **None.** Each-way value depends on the field size and the place terms, and both are unknown. |
-| Races to leave alone | **Provisionally:** 15:32 (6f, 29 entries) and 17:17 (fillies' handicap, 28 entries). Big-field handicaps at Goodwood are draw-dependent and usually too open to call even with full information. The 13:47 2m handicap is also a likely skip unless one horse has clear Goodwood form on soft ground. **Most likely to give a real opinion:** the 16:07 2yo novice, where a Haggas or Balding horse with good form could stand out. |
-
----
-
-## 7. Sources (all reached only through search snippets)
-
-- Goodwood: [2026 fixtures on sale](https://media.goodwood.com/all-fixtures-for-2026-horseracing-season-at-goodwood-racecourse-are-now-on-sale/), [2026 dates PDF](https://media.goodwood.com/globalassets/press--media/2026/dates/save-the-date-goodwoods-2026-event-season-is-here.pdf), [Season Finale tickets](https://www.goodwood.com/horseracing/fixtures-and-events/season-finale/tickets-and-packages/)
+- [Racing Post: Goodwood card 11 Oct 2026](https://www.racingpost.com/racecards/21/goodwood/2026-10-11/) (forecasts, verdicts, going, OR/RPR)
+- [Sussex Express: same-day preview and tips](https://www.sussexexpress.co.uk/sport/other-sport/goodwood-race-goers-set-for-one-last-hurrah-on-the-south-downs-9279523)
+- [Betfred Insights: Lucky 15, Sun 11 Oct 2026](https://insights.betfred.com/horse-racing/lucky-15-tips/today-sunday-11-october-2026/)
+- [Paddy Power: Paul Jacobs, Sun 11 Oct](https://news.paddypower.com/horse-racing/2026/10/10/horse-racing-tips-paul-jacobs-sunday-11-october/)
+- [Daily Sport: In A Pickle At Goodwood](https://dailysport.co.uk/featured/in-a-pickle-at-goodwood/)
+- [At The Races: Goodwood](https://www.attheraces.com/allracesat/Goodwood) (going, card)
+- Racing TV cards: [14:57](https://www.racingtv.com/racecards/2026-10-11/goodwood/1457), [16:07](https://www.racingtv.com/racecards/2026-10-11/goodwood/1607), [17:17](https://www.racingtv.com/racecards/2026-10-11/goodwood/1717)
 - [Sporting Life meeting page](https://www.sportinglife.com/racing/meeting/2026-10-11/goodwood/121895)
-- Racing TV: [1457](https://www.racingtv.com/racecards/2026-10-11/goodwood/1457), [1607](https://www.racingtv.com/racecards/2026-10-11/goodwood/1607), [1717](https://www.racingtv.com/racecards/2026-10-11/goodwood/1717)
-- Racing Post: [day page](https://www.racingpost.com/racecards/2026-10-11/), [Naas card (Beggar's End)](https://www.racingpost.com/racecards/192/naas/2026-10-11/930044)
-- [Horseracing.net card](https://www.horseracing.net/goodwood/11-10-26)
-- [At The Races Goodwood](https://www.attheraces.com/allracesat/Goodwood) (out of date or mixed with other meetings)
-- [Sporting Life result, 8 Sept 2026 (going)](https://www.sportinglife.com/racing/results/2026-09-08/goodwood/937228/virgin-bet-a-good-bet-handicap)
-- [Betfred Insights, 11 Oct cards (going)](https://insights.betfred.com/horse-racing/results/2026-10-11/)
-- [Goodwood: Clerk of the Course Ed Arkell](https://media.goodwood.com/clerk-of-the-course-ed-arkell/)
-- [Sporting Life 2025 nursery result](https://www.sportinglife.com/racing/results/2025-10-12/goodwood/883813/irish-stallion-farms-ebf-nursery)
-- [AccuWeather Chichester](https://www.accuweather.com/en/gb/chichester/po19-7/daily-weather-forecast/326255)
+- Deep Havana's Thirsk win: [mdmar.net](https://mdmar.net/en/deep-havana-wins-the-handicap-race-at-englands-thirsk-racecourse/)
+- Eternal Force: [ATR Lincoln preview](https://www.attheraces.com/news/2026/March/27/eternal-force-out-to-provide-sixth-lincoln-for-haggas), [Hamilton preview 4 Jun](https://www.scottishracing.co.uk/fixture_reviews/hamilton-park-preview-4th-june-2026)
+- Earlier passes: Goodwood fixture releases, AccuWeather Chichester, Betfred going snapshot (9 Oct)
+
+*Bet responsibly. Forecast prices are not guaranteed odds.*
