@@ -73,6 +73,30 @@
 
 ---
 
+## Results check (added 12 Oct)
+
+**3 winners from 7 races**, and all three were my first pick in their race. **The three best bets all lost. The two each-way picks finished out of the places.**
+
+| Race | Winner (SP) | My picks: finishing position (SP) | Hit? |
+|---|---|---|---|
+| 13:47 | Arc Zoosve (10/1) | Carthusian 6th (100/30); Poncho 10th (25/1) | ✗ |
+| 14:22 | **Brynmair Gold (5/6F)** | **Brynmair Gold 1st** | ✓ |
+| 14:57 | **Lots Road (15/2)** | **Lots Road 1st**; Zarak Crown 2nd (7/4F)† | ✓ |
+| 15:32 | **Deep Havana (5/2F)** | **Deep Havana 1st**‡; The Strikin Viking: position not found | ✓ |
+| 16:07 | Royal Acclamation (8/11F) | Iron Curtain 5th (13/2); Bundaberg 4th (14/1) | ✗ |
+| 16:42 | Naval Light (3/1JF) | Cerulean Bay 8th (3/1JF); Wechaad 7th (11/2) | ✗ |
+| 17:17 | Spirit Of Athene (100/30) | Room Fourteen 4th (2/1F); Prosperity 2nd (4/1) | ✗ |
+
+- **First picks, 1pt win at SP:** 3 winners from 7. Profit **+6.83pts** on 7pts staked (Brynmair Gold +0.83, Lots Road +7.5, Deep Havana +2.5, minus four losing points).
+- **All 13 selections, 1pt win each:** +10.83 from the three winners minus 10 losers, so about **+0.8pts**. Roughly break-even.
+- **Best bets:** 0 from 3. Carthusian finished 6th, Iron Curtain 5th and Room Fourteen 4th.
+- **Each-way:** 0 from 2. Cerulean Bay finished 8th and Poncho 10th, both outside the places.
+- **What I'd take from it:** the wins came from horses with clear recent form or a strong stable signal (Doyle choosing Deep Havana, Lots Road's low mark plus the step up in trip). The course-history each-way picks (Cerulean Bay and Poncho, both last year's winners) failed, and so did the better-value alternatives I chose over the favourites. The favourite won in 4 of 7 races.
+
+*Sources for the results: Racing Post full results and the Sunday 11th runners index; Betfred Insights result pages for the 14:22 and 14:57; GG.co.uk for the 16:42. † The 14:57 runner-up conflicts across sources: one gives Zarak Crown, another Under Arrest. ‡ The Deep Havana win comes only from the Racing Post runners index (1st, 5/2F); I couldn't find a full result page to confirm it.*
+
+---
+
 ## Sources (via search extracts; direct access blocked)
 
 - Racing Post: [Goodwood card 11 Oct](https://www.racingpost.com/racecards/21/goodwood/2026-10-11/), [16:42 card](https://www.racingpost.com/racecards/21/goodwood/2026-10-11/928543/), [race page you sent (928548)](https://www.racingpost.com/racecards/21/goodwood/2026-10-11/928548/) (no extract found), [Free tips Sun 11 Oct](https://www.racingpost.com/horse-racing-tips/todays-top-tips/free-horse-racing-tips-for-day-date-at-xx-xx-and-xx-aGLPH6w3kMCR/), [The Edge (Robbie Wilders)](https://www.racingpost.com/news/betting-insight/the-edge/two-novice-eyecatchers-at-goodwood-and-two-interesting-tracker-horses-the-edge-on-sunday-with-robbie-wilders-aTV2F8b1Tv0R/) (paywalled)
